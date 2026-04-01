@@ -1,0 +1,11 @@
+site_id,company_id,site_name,country,state,city,site_type,business_unit,employees_site,scope_1_tco2e,scope_2_tco2e,scope_3_tco2e,total_tco2e,total_employees,female_employees,female_management_pct,training_hours,total_turnover_pct,lost_time_injury_rate,recordable_incidents,female_workforce_pct,training_hours_per_employee
+S001,1,Houston Plant,USA,Texas,Houston,Manufacturing,Operations,1850,808,582,1715,3105,1849.0,521.0,23.0,1540,3.7,2.0,9,28.18,0.83
+S002,1,Chicago Office,USA,Illinois,Chicago,Office,Corporate,650,34,102,129,265,651.0,311.0,38.0,566,1.75,0.2,0,47.77,0.87
+S003,1,Ohio Distribution Center,USA,Ohio,Columbus,Warehouse,Logistics,920,142,172,503,817,919.0,295.5,31.0,732,2.75,1.05,4,32.15,0.8
+S004,1,Atlanta Plant,USA,Georgia,Atlanta,Manufacturing,Operations,1600,737,508,1455,2698,1601.0,471.0,24.0,1395,3.45,1.75,7,29.42,0.87
+S005,1,Phoenix Office,USA,Arizona,Phoenix,Office,Sales,430,19,62,78,159,431.0,190.5,35.0,346,1.95,0.1,0,44.2,0.8
+S006,1,New Jersey Plant,USA,New Jersey,Newark,Manufacturing,Operations,1450,697,475,1390,2572,1451.5,391.0,22.0,1255,3.8,2.2,9,26.94,0.86
+S007,1,Dallas Distribution Center,USA,Texas,Dallas,Warehouse,Logistics,780,128,158,475,769,781.0,249.0,29.0,628,2.55,0.9,2,31.88,0.8
+S008,1,Seattle Office,USA,Washington,Seattle,Office,Technology,310,16,55,67,138,311.0,138.5,37.0,260,1.6,0.0,0,44.53,0.84
+S009,1,Detroit Plant,USA,Michigan,Detroit,Manufacturing,Operations,1720,780,540,1535,2855,1719.0,456.5,21.0,1430,4.1,2.45,11,26.56,0.83
+S010,1,Denver Warehouse,USA,Colorado,Denver,Warehouse,Logistics,590,106,138,415,665,591.0,198.5,32.0,497,2.15,0.8,2,33.59,0.84
