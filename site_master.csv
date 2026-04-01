@@ -1,0 +1,11 @@
+site_id,company_id,site_name,country,state,city,site_type,business_unit,employees_site
+S001,1,Houston Plant,USA,Texas,Houston,Manufacturing,Operations,1850
+S002,1,Chicago Office,USA,Illinois,Chicago,Office,Corporate,650
+S003,1,Ohio Distribution Center,USA,Ohio,Columbus,Warehouse,Logistics,920
+S004,1,Atlanta Plant,USA,Georgia,Atlanta,Manufacturing,Operations,1600
+S005,1,Phoenix Office,USA,Arizona,Phoenix,Office,Sales,430
+S006,1,New Jersey Plant,USA,New Jersey,Newark,Manufacturing,Operations,1450
+S007,1,Dallas Distribution Center,USA,Texas,Dallas,Warehouse,Logistics,780
+S008,1,Seattle Office,USA,Washington,Seattle,Office,Technology,310
+S009,1,Detroit Plant,USA,Michigan,Detroit,Manufacturing,Operations,1720
+S010,1,Denver Warehouse,USA,Colorado,Denver,Warehouse,Logistics,590
